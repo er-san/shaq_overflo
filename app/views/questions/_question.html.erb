@@ -5,6 +5,7 @@
   <ul>
     <li class = "question-content"><%= q.body %></li>
     <li class="username">asked by <%= link_to q.user.username, user_path(q.user.id) %></li>
+    <li class='username'><%= time_ago_in_words(q.updated_at) %> ago</li>
   </ul>
 <% end %>
 

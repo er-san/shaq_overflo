@@ -2,4 +2,5 @@
 <div>Question Title: <%= @question.title %></div>
 <div>Answer Body: <%= @answer.body %></div>
 <div>Answer ID: <%= @answer.id %></div>
+<div><%= time_ago_in_words(@answer.updated_at) %></div>
 

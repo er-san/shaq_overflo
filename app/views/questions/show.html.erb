@@ -5,6 +5,7 @@
 <h2><%= @question.body %></h2>
 
 <h3 class="username">asked by <%= link_to @question.user.username, user_path(@question.user) %></h3>
+<h4 class='username'><%= time_ago_in_words(@question.updated_at) %> ago</h4>
 
 <h3><%= @question.answers.count %> Answers</h3>
   <h4>Tags:</h4><% @question.tags.each do |tag|%>
