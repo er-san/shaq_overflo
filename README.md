@@ -6,7 +6,7 @@
 
 ###Introduction
 
-Welcome to our team! The members are Ersan U, Jake R, David T, and Jason W! We are delighted to introduce you to our attempt to replicate the popular website, StackOverflow.
+Welcome to our team! The members are Ersan U, Jake R, David T, and Jason W! We are delighted to introduce you to our attempt to replicate the popular website, StackOverflow. This was a 4 day project.
 
 ***
 
