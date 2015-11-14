@@ -31,16 +31,16 @@ Note: This was an initial schema before we performed a stretch goal and added co
 
 [Trello Account](https://trello.com/b/mQaVrrDy)
 
-As a team, we chose to pick up the tasks that either interested us or challenged us. If any of us ran into difficulty, we usually paired off or collaborated as a group to figure out the best way to tackle the situation. As you can see above, we talked out user stories, schemas, and wireframes before working together on the migrations and models together.
+As a team, we chose to pick up the tasks to start constructing the project. If any of us ran into difficulty, we usually paired up or collaborated as a group to figure out the best way to tackle the situation. As you can see above, we talked out user stories, schemas, and wireframes before working together on the migrations and models together.
 
 ***
 
 ###Technologies Used
 
-Ruby on Rails, Javascript, HTML5. Under javascript, we used jquery to make ajax-based forms which would allow the user to seamlessly add answers or comments. In addition, we experimented with HTML5 presentation to create a more dynamic presentation
+Ruby on Rails, Javascript, HTML5. Under javascript, we used jquery to make ajax-based forms which would allow the user to seamlessly add answers or comments. In addition, we experimented with HTML5 presentation to create a more dynamic presentation.
 
 ***
 
-###Learning Experience
+###Our Experience
 
-This was an excellent learning experience because we got to practice everything we have learned up to this point. This was also our first attempt at crafting a full rails app which is undoubtedly a great step forward toward our future careers as programmers.
+This was an excellent experience because we got to implement everything a fully fledged application would have. We built a fully functional rails application with heavy javascript front end.
